@@ -1,0 +1,487 @@
+{
+  "Hillwalking": {
+    "Stage 1": [
+      "I know what should be in my personal First Aid Kit.",
+      "I know the basic rules of First Aid.",
+      "I know the different emergency services that are available and how and when to call them.",
+      "I know how to use the 'Buddy' system.",
+      "I know how to treat minor cuts.",
+      "I can get help and make a report properly if someone is hurt.",
+      "I can be responsible for my own health and safety."
+    ],
+    "Stage 2": [
+      "I have made my own First Aid Kit and I know how and when to use it.",
+      "I know how and when to place someone into the recovery (safe airway) position.",
+      "I know the importance of providing shelter and insulation.",
+      "I know how to use a Scout neckerchief as a makeshift bandage in an emergency.",
+      "I understand why I should follow directions from an instructor.",
+      "I know how to keep myself safe in an emergency.",
+      "I can direct help/rescue services to a location."
+    ],
+    "Stage 3": [
+      "I know how to deal with a bleeding injury and nose bleeds.",
+      "I know how to treat minor burns and sunburn.",
+      "I know the international distress signal and when to use it.",
+      "I can treat bee stings and nettle stings.",
+      "I know how to check for the A B C of basic First Aid.",
+      "I know how to use CPR.",
+      "I can assess an emergency situation quickly, and summon help.",
+      "I know how to create an escape plan for a building or activity location in case of fire.",
+      "I know how to care for an injured person until help arrives."
+    ],
+    "Stage 4": [
+      "I know what should be in our Team First Aid Kit, and know how to use it correctly.",
+      "I know how to move an injured person safely to shelter if appropriate or necessary.",
+      "I know how to apply bandages for different types of injury.",
+      "I know how to check if someone is choking and how to help them.",
+      "I know how to clean dirt from an eye.",
+      "I know how to recognise sprains, strains and fractures.",
+      "I know how to deal with blisters.",
+      "I know what actions to take with suspected poisoning.",
+      "I can use various means to show the location of an accident to rescue services.",
+      "I know how to build a stretcher from improvised materials."
+    ],
+    "Stage 5": [
+      "I know how to treat an eye injury.",
+      "I know what to do and what not to do in the case of emergencies.",
+      "I have acted as a Team First Aider on at least one activity.",
+      "I know how to take care of and reassure a casualty.",
+      "I know how to recognise and assist someone suffering from the effects of asthma, epilepsy and diabetes.",
+      "I know how to deal with an accident in open countryside and how to summon help.",
+      "I know how to treat a serious bleeding injury.",
+      "I know how to escape to safety from various emergency situations.",
+      "I know how and when to use flares and other long-distance signalling devices."
+    ],
+    "Stage 6": [
+      "I know how to recognise and treat shock.",
+      "I know how and when to use an AED.",
+      "I have acted as a Team First Aider on at least one outdoor activity.",
+      "I know how to escort and assist a casualty, while they are being transported to safety.",
+      "I know how and when to use different fire extinguishers.",
+      "I know how to look for monitor and record vital signs.",
+      "I know the causes of, how to recognize and to treat: hypothermia, hyperthermia, sunstroke, dehydration and asthma.",
+      "I know how to recognise and deal with angina and heart attacks.",
+      "I know how to record correctly everything that has happened at the scene of the accident.",
+      "I am competent in basic first-aid, able to deal with emergencies, and I know when further expert help is needed."
+    ],
+    "Stage 7": [
+      "I hold a First Aid certificate to REC 3 or equivalent level (Red Cross, Order of Malta, and Saint Johns Ambulance).",
+      "I can deal with emergency situations and follow best practice for First Aid.",
+      "I have acted as Section First Aider on at least one occasion on an adventurous outdoor activity.",
+      "I can analyse vital signs.",
+      "I know what specialised equipment I should have in my First Aid Kit and how to use and care for it.",
+      "I know how and when to call a medevac or other medical helicopters.",
+      "I can use radio communications effectively in an emergency situation."
+    ],
+    "Stage 8": [
+      "I know how to treat specific injuries which may occur in my chosen area of interest.",
+      "I can carry out a risk assessment for an activity and steer clear of dangers.",
+      "I know how to deal with head, spine, chest, stomach, and pelvic injuries.",
+      "I know how to educate others to the possible dangers that can be encountered and how to deal with them.",
+      "I have acted as a First Aider on at least one annual expedition of five night’s duration."
+    ],
+    "Stage 9": [
+      "I know how to deal with regional specific illnesses depending on my location or the location I am travelling to.",
+      "I know, understand and I am able to perform basic life support.",
+      "I know how to assess and manage risk in various and constantly changing situations.",
+      "I can constantly risk assess situations as they arise and take measures to limit injuries.",
+      "I can give immediate treatment and deal with complicated emergency situations.",
+      "I can assist a rescue team in moving a casualty to safety.",
+      "I hold a First Aid Cert at REC level 4 or equivalent."
+    ]
+  },
+  "Hillwalking": {
+    "Stage 1": [
+      "I can pack my rucksack for a day hike.",
+      "I know what to wear and what extras I need to bring on a hike.",
+      "I know what food to bring on a hike.",
+      "I know how to behave safely while hiking.",
+      "I can read a simple map.",
+      "I can point out and name the main features of a map.",
+      "I can be responsible for myself while we are hiking.",
+      "I can recognise the main distress signals.",
+      "I know about the Buddy system.",
+      "I understand why I should follow directions from an instructor.",
+      "I have attended at least two hikes."
+    ],
+    "Stage 2": [
+      "I know what gear I need depending on the weather.",
+      "I know why you bring certain foods and drinks on hikes.",
+      "I can point out the main parts of the compass.",
+      "I know how to get help if someone is hurt.",
+      "I can point out the different symbols and colours on a map and I know what they mean.",
+      "I can be responsible member of my team while we are hiking.",
+      "I can get a weather forecast.",
+      "I have attended at least three hikes."
+    ],
+    "Stage 3": [
+      "I know how to treat simple cuts and scratches.",
+      "I know why you bring certain clothing on hikes.",
+      "I know the main principles of 'Leave No Trace'.",
+      "I know how to cross boggy ground.",
+      "I know how and when to use the main distress signals.",
+      "I can use a compass to find direction.",
+      "I can point out the features of a map.",
+      "I can be responsible for myself and aware of my surroundings while hiking.",
+      "I can follow a route on an orienteering map.",
+      "I have attended at least three hiking activities and been on the top of a mountain."
+    ],
+    "Stage 4": [
+      "I know how to pack a rucksack for weekend hikes.",
+      "I can care for all my personal hiking equipment.",
+      "I know what team equipment to bring and why.",
+      "I know how to treat simple sprains and blisters.",
+      "I know the different emergency services that are available and how and when to call them.",
+      "I can follow our route on a map and find the main points using a compass.",
+      "I can be responsible for younger members of my team while we are hiking.",
+      "I have led a leg of a hike.",
+      "I have attended three hikes including an overnight."
+    ],
+    "Stage 5": [
+      "I know the potential dangers of weather on hikes.",
+      "I know how to pack a rucksack for a hillwalking expedition.",
+      "I know when to cross a river and some different methods for crossing.",
+      "I know all about the 'Leave No Trace' principles.",
+      "I know the main principles of navigating using a map and compass.",
+      "I can complete and use a route card.",
+      "I can be an active member of my team while hiking.",
+      "I have taken part in three hikes.",
+      "I have taken part in a two-night hike in the mountains, based out of one campsite.",
+      "I have written a log for at least two of these activities."
+    ],
+    "Stage 6": [
+      "I know the causes of how to recognize and treat hypothermia, hyperthermia, sunstroke, dehydration and asthma, or anything medical relevant to my team.",
+      "I know the limitations of my team.",
+      "I know the limitations of the compass and other navigation tools.",
+      "I can use a compass and map to find my position.",
+      "I know what Group emergency equipment we should carry, and how to use it.",
+      "I can be responsible for myself and my team while hiking.",
+      "I can plan and lead a hike.",
+      "I have taken part in at least six hiking activities, four of which should be over 800m.",
+      "I have taken part in a two-night hike in the mountains, including a low and high camp.",
+      "I have written logs for all of these activities."
+    ],
+    "Stage 7": [
+      "I can organise the transport required for an activity.",
+      "I can budget for team hikes.",
+      "I know how to assess risk and be aware of group safety.",
+      "I know how to deal with mountain hazards.",
+      "I can plan escape routes.",
+      "I can navigate at night, in poor visibility, and do micro-navigation.",
+      "I have planned and led one hike without a Scouter.",
+      "I have participated in at least five hikes between 800m and 1,300m and one over 1,300m.",
+      "I have taken part in an unaccompanied but supervised two-night hike in the mountains including a low and high camp.",
+      "I have written logs for all of these activities.",
+      "I have a logbook detailing at least 30 hikes and expeditions that I have undertaken."
+    ],
+    "Stage 8": [
+      "I have an outdoor First Aid certificate.",
+      "I know how to safeguard others on steep ground.",
+      "I know how to use a rope on difficult terrain.",
+      "I can set up a simple belay.",
+      "I can lead a hiking adventure.",
+      "I know the procedure to be followed in the event of an accident.",
+      "I have taken part in at least six hillwalking adventures over 1000m and one over 2250m.",
+      "I can take responsibility for our Group on a hiking adventure.",
+      "I have taken part in an unaccompanied but supervised two-night hike in the mountains outside the island of Ireland.",
+      "I have written logs for all of these activities."
+    ],
+    "Stage 9": [
+      "I know what equipment is required for various types of hillwalking expeditions, and the correct use and care of this equipment.",
+      "I can navigate accurately and safely over the Irish mountains in any type of weather, and at night.",
+      "I can assess risk and take appropriate action to ensure safety.",
+      "I can practice basic winter mountaineering skills.",
+      "I can create an exciting expedition while catering for everyone’s needs.",
+      "I can budget, prepare and manage every aspect of the expedition.",
+      "I have a logbook detailing at least 20 hikes and expeditions that I have undertaken since stage 7.",
+      "I have taken part in an expedition to 3250m.",
+      "I can be responsible for others in various situations on the mountains."
+    ]
+  },
+  "Pioneering": {
+    "Stage 1": [
+      "I know what equipment is needed for making pioneering gadgets.",
+      "I know how to build a gadget using elastic band techniques.",
+      "I can be responsible for myself while we are pioneering.",
+      "I know the different emergency services that are available and how and when to call them.",
+      "I understand why I should follow directions from an instructor.",
+      "I have built at least two simple pioneering gadgets."
+    ],
+    "Stage 2": [
+      "I know how to get help if someone is hurt during a pioneering activity.",
+      "I can tie the basic knots I need for pioneering.",
+      "I can prepare ropes for use in pioneering.",
+      "I can coil a rope.",
+      "I can undertake tasks assigned to me while we are pioneering.",
+      "I have made a knot board.",
+      "I have built at least three simple pioneering gadgets using elastic band techniques."
+    ],
+    "Stage 3": [
+      "I know what equipment I need for making various pioneering gadgets.",
+      "I know how to treat basic cuts and scratches.",
+      "I know about the safety precautions that are needed when pioneering.",
+      "I know the main principles of ‘Leave No Trace’.",
+      "I have taught other Scouts how to tie some basic knots.",
+      "I have built at least two gadgets using ropes and poles."
+    ],
+    "Stage 4": [
+      "I know the correct use, care, and storage of the tools we use in pioneering.",
+      "I know the different types of rope used in pioneering.",
+      "I know how to take care of all kinds of rope.",
+      "I know how to tie the knots necessary for building pioneering structures safely.",
+      "I know the safety precautions to be observed for the safe lifting of pioneering spars.",
+      "I can use guy ropes to make pioneering gadgets stable.",
+      "I know the basic components of pioneering structures and how to make them.",
+      "I can tie the main lashings necessary to make most pioneering gadgets.",
+      "I can be responsible for myself while pioneering.",
+      "I have built gadgets on camp and assisted my ‘team’ in building a tower or a bridge."
+    ],
+    "Stage 5": [
+      "I know how to select suitable poles and spars for a pioneering project.",
+      "I know how to treat cuts and sprains.",
+      "I know what to do in case of an accident while pioneering and how to be safety conscious.",
+      "I can help a younger Scout to build a pioneering gadget.",
+      "I can set up a simple pulley system for lifting and tensioning ropes.",
+      "I can coil, whip and splice a rope.",
+      "I am aware of the building process/procedure while pioneering.",
+      "I have taken part in the construction of at least two pioneering projects."
+    ],
+    "Stage 6": [
+      "I know how to plan and construct pioneering projects to be built by my team.",
+      "I know how to reeve up, use and safely secure pulleys in pioneering projects.",
+      "I can be responsible for my team while building pioneering projects.",
+      "I know the correct lifting techniques for raising a tower or an A frame.",
+      "I know the best types of anchorage to use for a pioneering project and can use them.",
+      "I can lead the construction of an element of a large-scale pioneering structure.",
+      "I have taught a younger Scout how to tie the lashings necessary for a pioneering project.",
+      "I have taken part in the construction of at least two large-scale pioneering structures."
+    ],
+    "Stage 7": [
+      "I know how to inspect for damage, care for and store ropes, pulleys and poles.",
+      "I know the importance of safety at all stages of construction, use and dismantling of a pioneering structure.",
+      "I know how to plan and execute the build of a large-scale pioneering structure.",
+      "I can check the safety of all knots and lashings used in a large-scale pioneering structure.",
+      "I have led the construction of at least one large-scale pioneering structure."
+    ],
+    "Stage 8": [
+      "I have led the construction of at least two large-scale pioneering structures and managed them safely.",
+      "I know how to set up and manage a belay on pioneering or climbing structures.",
+      "I know how to use safety harnesses and securely tie off rock climbing harnesses.",
+      "I know how to secure rope structures and high wire elements.",
+      "I hold an outdoor First Aid certificate."
+    ],
+    "Stage 9": [
+      "I can design, plan and build large-scale pioneering structures.",
+      "I know the importance of safety at all stages of construction, build, use and dismantling of a large-scale pioneering structure.",
+      "I know how to control and supervise the construction of a large-scale pioneering structure and its use in programme.",
+      "I can be responsible for ensuring large-scale projects happen safely, and that those participating are learning the skills required."
+    ]
+  },
+  "Camping": {
+    "Stage 1": [
+      "I know the main personal gear to bring on camp.",
+      "I know how to care for my personal camping gear.",
+      "I know what clothes I should bring on camp.",
+      "I know how to set out my sleeping area for a good night's sleep.",
+      "I can collect small sticks suitable for fire-making.",
+      "I know about the Buddy System.",
+      "I can pack my rucksack for camp.",
+      "I can keep my camping gear neat and tidy while on camp.",
+      "I know the different emergency services that are available and how and when to call them.",
+      "I know the main parts of a tent.",
+      "I can help pitch a tent.",
+      "I have spent at least one night on camp."
+    ],
+    "Stage 2": [
+      "I know about the food pyramid and can discuss it with a Scouter.",
+      "I know about food hygiene.",
+      "I can get a weather forecast.",
+      "I can help prepare food for cooking on camp.",
+      "I know how I would get help if someone is hurt.",
+      "I know how to behave safely around fires.",
+      "I can demonstrate my understanding of the fire triangle.",
+      "I know how to be safe while cooking.",
+      "I understand why I should follow directions from an instructor.",
+      "I have spent at least two nights on camp (outside)."
+    ],
+    "Stage 3": [
+      "I know how to care for all my personal gear.",
+      "I know about safe food storage.",
+      "I can help make a hot drink using a fire.",
+      "I can help clean up a fireplace after camp.",
+      "I know how weather can affect our camp.",
+      "I know why we bring certain gear on camp for our team.",
+      "I can use camp tools safely on camp.",
+      "I know how to clean and treat a small cut or scratch.",
+      "I know and can discuss the main principles of 'Leave No Trace'.",
+      "I can show a younger member of my team how to pitch a tent with the help of others.",
+      "I can assist in the cooking of a meal while on camp.",
+      "I can help others to learn about camping.",
+      "I have spent at least two consecutive nights on camp."
+    ],
+    "Stage 4": [
+      "I know what personal gear I should bring on a lightweight and standing camp.",
+      "I can pack my rucksack properly for a lightweight camp.",
+      "I know how to use our team gear correctly and safely.",
+      "I know how to care for our team equipment during and in between camp.",
+      "I know the best place to pitch our tent and I can explain why.",
+      "I know how to use and store tools safely.",
+      "I know what to do in the case of cuts and minor burns.",
+      "I can be safe around fires and cooking equipment.",
+      "I can be a constructive member of my team while on camp.",
+      "I can assist in the pitching of a tent with my team.",
+      "I have spent at least four nights on camp."
+    ],
+    "Stage 5": [
+      "I know what you need for building shelters and bivvys.",
+      "I can explain how you choose the best type of tent for a specific camp.",
+      "I know how to store and cook food safely on camp.",
+      "I know what team equipment to bring on various types of camps.",
+      "I can plan a balanced menu with my team for a camping adventure.",
+      "I can select suitable locations for a standing or lightweight camp.",
+      "I can show the best layout for a team campsite.",
+      "I can use at least two different types of cooking fires and stoves.",
+      "I can give a weather report to our Scouter for the duration of a camp.",
+      "I can show the best location on camp for a chopping pit.",
+      "I can show a younger Scout how to pitch a tent.",
+      "I know how to pitch and set tents correctly for bad weather conditions.",
+      "I understand the importance of proper waste management on camp.",
+      "I can light and maintain a cooking fire.",
+      "I know how to cook a good balanced meal on a fire.",
+      "I have spent at least five consecutive nights on camp.",
+      "I have spent at least one night, lightweight camping."
+    ],
+    "Stage 6": [
+      "I know how to plan the menu and purchase the food for a weekend camp.",
+      "I can source local knowledge with regards to a campsite and surrounding area.",
+      "I know how to plan a programme of activities for a camp.",
+      "I know the causes and how to recognize and treat hypothermia, hyperthermia, sunstroke, dehydration and asthma, or any medical conditions relevant to my team.",
+      "I can show how to care for, store and maintain all our team equipment.",
+      "I can explain what group emergency equipment we should bring on camp and why.",
+      "I can organise the pitching and striking of a team campsite.",
+      "I know how to use a variety of stoves in outdoor conditions safely.",
+      "I can talk to our team about the hazards involved in camping.",
+      "I can pitch a tent that I am not familiar with.",
+      "I have successfully camped in a variety of weather conditions.",
+      "I have spent at least eight nights on camp including a week-long camp.",
+      "I have spent at least two consecutive nights lightweight camping."
+    ],
+    "Stage 7": [
+      "I know how to select a suitable location for both standing and lightweight camps.",
+      "I can plan and lead a team camp in a remote location for a minimum of two nights.",
+      "I know how to organise the transport required for our camp.",
+      "I know how to plan activities for various types of camps.",
+      "I know how to make contingency plans for our camp.",
+      "I can take responsibility for myself and my team while on camp.",
+      "I can help those camping with my team to learn new skills.",
+      "I have spent at least 12 nights on various types of camps, including at least two consecutive nights without a Scouter."
+    ],
+    "Stage 8": [
+      "I can prepare for a specialist expedition and have acquired the necessary skills.",
+      "I can source, compare and organise various transport options for getting to local and foreign locations.",
+      "I know how to create an exciting expedition while catering for everyone's needs.",
+      "I know how to be active in the out of doors, without disturbing the balance of nature.",
+      "I have assisted in the organisation of at least two camps either for my Team, or another Team in my own Group or in another Group.",
+      "I have spent at least 16 nights on various types of camps."
+    ],
+    "Stage 9": [
+      "I know how to budget, prepare and manage every aspect of the expedition.",
+      "I know how to ensure that safety precautions are put in place, without curtailing the fun of our camp.",
+      "I can plan and execute, camps and expeditions in all types of locations - at home or abroad.",
+      "I know how to source amenities and local places of interest.",
+      "I know how to use a variety of cooking stoves, and know when each type is most effective.",
+      "I have organized and led at least one camp for my team.",
+      "I have spent at least 20 nights on various types of camps."
+    ]
+  },
+  "Backwoods": {
+    "Stage 1": [
+      "I know what kinds of clothes to wear when going out into nature.",
+      "I know how to prepare food for cooking.",
+      "I know what a basic survival kit should contain.",
+      "I know how to behave safely around fires.",
+      "I know how to use hand tools safely.",
+      "I can build a simple shelter.",
+      "I have participated in at least two backwoods activities."
+    ],
+    "Stage 2": [
+      "I know how to cook some food using tin foil instead of pots and pans.",
+      "I know the important things to remember when building a simple shelter using plastic sheeting.",
+      "I know how to treat simple cuts and scratches in a hygienic way.",
+      "I know how to set up a fireplace and assist in fire lighting.",
+      "I can prepare and cook food properly in backwoods conditions.",
+      "I know about food hygiene in the outdoors.",
+      "I can use hand tools correctly.",
+      "I have attended at least an additional two backwoods activities."
+    ],
+    "Stage 3": [
+      "I know how different weather conditions can affect a backwoods activity.",
+      "I know how to get help when someone is in trouble.",
+      "I know the main principles of 'Leave No Trace'.",
+      "I can build a shelter for six people.",
+      "I can use camp tools safely on camp.",
+      "I know about food storage.",
+      "I can light a fire using natural tinder, fuzz sticks and matches.",
+      "I can make a simple fish hook.",
+      "I can prepare my own survival kit.",
+      "I can teach another Scout about preparing a survival kit.",
+      "I have attended at least an additional three backwoods activities."
+    ],
+    "Stage 4": [
+      "I know what equipment I need to bring with me on a backwoods activity.",
+      "I know how to set up a tarp bivvy shelter suitable for two people.",
+      "I know how to prepare a fireplace and light and maintain a fire using minimum resources.",
+      "I can make simple containers using natural materials.",
+      "I know how to treat cuts and minor burns.",
+      "I can make camp bread such as twists and scones.",
+      "I know about nature and what you are likely to see and experience as part of a backwoods activity.",
+      "I can find directions by using star constellations and the sun/watch method.",
+      "I have attended at least one backwoods-based overnight activity."
+    ],
+    "Stage 5": [
+      "I know how to use and care for tools of all kinds safely.",
+      "I know how to build a backwoods shelter using natural materials and how to return this material to nature.",
+      "I know how to cook a variety of foods using different backwoods methods.",
+      "I know the safety considerations that are necessary before embarking on any activity or adventure.",
+      "I can make a length of cordage using naturally found fibres.",
+      "I can light a fire using flint and steel.",
+      "I can make myself comfortable on an overnight backwoods adventure using available natural materials.",
+      "I can carve a wooden spoon from a piece of wood.",
+      "I have attended backwoods-based activities lasting at least two nights."
+    ],
+    "Stage 6": [
+      "I know what team and personal equipment is necessary for a successful backwoods activity.",
+      "I know all of the elements of the 'Leave No Trace' programme.",
+      "I can identify edible fruits and berries that are found in nature.",
+      "I can prepare the foods I find in nature for cooking.",
+      "I can find my way using natural direction indicators.",
+      "I can catch and prepare a fish for cooking.",
+      "I have led at least one backwoods activity."
+    ],
+    "Stage 7": [
+      "I know a number of ways of constructing shelters and bivvys.",
+      "I know the likely hazards that may be present in woodland and open countryside.",
+      "I know how to light and maintain a fire using friction methods.",
+      "I know how to live in the countryside without disturbing the balance of nature in any way.",
+      "I know how to make utensils by carving and by other methods.",
+      "I can cook a meal without using common utensils.",
+      "I have led at least one overnight backwoods or survival-based activity."
+    ],
+    "Stage 8": [
+      "I know a number of ways of constructing shelters capable of being used for a number of nights.",
+      "I know how to prepare, cook and store food in backwoods conditions.",
+      "I know the different edible foods that can be eaten safely in the wilds.",
+      "I hold a first aid certificate (outdoor) or equivalent REC 3.",
+      "I know how to make a variety of tools, and useful gadgets to survive in nature over a period of time.",
+      "I can live comfortably in a number of different natural situations, with minimal equipment.",
+      "I have led at least three backwoods adventures.",
+      "I have participated in a survival weekend activity."
+    ],
+    "Stage 9": [
+      "I have run at least two backwoods skills training sessions for my Scout Group/County.",
+      "I have participated in a survival activity outside my usual Scouting environment."
+    ]
+  }
+}
+
+

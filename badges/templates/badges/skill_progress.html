@@ -1,0 +1,40 @@
+{% extends '../base.html' %}
+{% load static %}
+{% block content %}
+<h2>Skill Progress Tracker</h2>
+
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <script src="{% static 'js/filter_skill_stages.js' %}"></script>
+    <button type="submit">Filter</button>
+</form>
+
+{% if skill_stage %}
+    <h3>Tracking Progress for: {{ skill_stage.skill_area.name }} - Stage {{ skill_stage.stage_number }} - TODO none of this is working</h3>
+    <form method="post">
+        {% csrf_token %}
+        <input type="hidden" name="section" value="{{ form.section.value }}">
+        <input type="hidden" name="skill_stage" value="{{ skill_stage.id }}">
+
+        <table border="1">
+            <tr>
+                <th>Scout</th>
+                {% for competency in skill_stage.competencies.all %}
+                    <th>{{ competency.description }}</th>
+                {% endfor %}
+            </tr>
+            {% for scout, progress_form in progress_forms %}
+                <tr>
+                    <td>{{ scout.first_name }} {{ scout.last_name }}</td>
+                    {{ progress_form.as_table }}
+                </tr>
+            {% endfor %}
+        </table>
+
+        <button type="submit">Save Progress</button>
+    </form>
+{% endif %}
+
+{% endblock %}
+
