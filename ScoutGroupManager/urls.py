@@ -22,4 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path("badges/", include("badges.urls")),
     path('', include('badges.urls')),
+    path("accounts/", include("allauth.urls")),  # Add Django Allauth URLs
 ]

@@ -13,6 +13,7 @@ venv/
 # Ignore Django secret keys (add settings_local.py if you use it)
 .env
 settings_local.py
+secret*
 
 # Ignore static and media files (optional)
 staticfiles/
