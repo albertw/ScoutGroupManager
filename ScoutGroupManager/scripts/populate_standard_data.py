@@ -1,22 +1,27 @@
-import os
-import django
-import sys
+import argparse
+import glob
 import json
+import os
+import sys
+
+import django
 
 sys.path.append("../../")
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "ScoutGroupManager.settings")
 
 django.setup()
+apps = ["badges", "members"]
 
 from badges.models import AdventureSkillStage, AdventureSkillArea, Competency
 from members.models import Scout
 
 from django.contrib.auth import get_user_model
+from django.core.management import call_command
 
 
 def create_admin():
-    User = get_user_model()
-    User.objects.create_superuser('admin', 'admin@example.com', 'password')
+    user = get_user_model()
+    user.objects.create_superuser('admin', 'admin@example.com', 'password')
 
 
 def populate_adventure_skills():
@@ -42,6 +47,30 @@ def populate_members():
                                     date_of_birth=scout['date_of_birth'])
 
 
+parser = argparse.ArgumentParser(description="Tool to populate db with sample data")
+parser.add_argument("--clean", action="store_true", help="delete old data and migrations")
+args = parser.parse_args()
+
+if args.clean:
+    dbfile = "../../db.sqlite3"
+    if os.path.exists(dbfile):
+        os.remove(dbfile)
+
+    for app in apps:
+        migration_path = os.path.join("../../", app, "migrations")
+
+        if os.path.exists(migration_path):
+            # Find all .py files except __init__.py
+            migration_files = glob.glob(os.path.join(migration_path, "*.py"))
+
+            for file in migration_files:
+                if not file.endswith("__init__.py"):  # Keep __init__.py
+                    os.remove(file)
+                    print(f"Deleted: {file}")
+
+
+call_command('makemigrations', *apps)
+call_command('migrate')
 populate_adventure_skills()
 populate_members()
 create_admin()
